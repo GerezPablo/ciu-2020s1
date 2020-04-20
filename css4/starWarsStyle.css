@@ -1,0 +1,9 @@
+.imperio{background-color: red;}
+.rebeldes{background-color: blue;}
+#darthVader{font-size: 20px;}
+#lucasTrotaCielos {font-style:italic}
+
+.soldadoBorder {border:dashed}
+.soldadospacing {letter-spacing: 3px;}
+.apoyoAlign {text-align: justify;}
+.nave{text-transform: uppercase }
