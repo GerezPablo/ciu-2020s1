@@ -30,3 +30,14 @@ body {
     color: #000000;
     background-color: lightgrey;
 }
+
+.boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: purple;
+    border-radius: 6px;
+    border: 2px solid black;
+}
