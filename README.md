@@ -10,6 +10,6 @@
 <hr>
   
 ## Link laberinto:
-    https://tu-propia-aventura-ponele.netlify.app/
+  https://tu-propia-aventura-ponele.netlify.app/
    
 <hr>
