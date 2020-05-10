@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="source">
+        Texto Fuente.
+    </div>
+
+    <div id="destination">
+        Texto Destino.
+    </div>
+    <script>
+        var source = document.getElementById("source").textContent
+        document.getElementById("destination").innerHTML = source
+        <s> </s>
+        //document.getElementById("source").innerHTML = document.getElementById("destination")
+    </script>
+</body>
+</html>
+
+    Guarda el cóntenido de source en una variable.
+    Usa la variable para pasar el texto al div destination
+    Crea s con ids swap_1 y swap_2.
+    Cómo podemos intercambiar el texto entre los dos swaps?
