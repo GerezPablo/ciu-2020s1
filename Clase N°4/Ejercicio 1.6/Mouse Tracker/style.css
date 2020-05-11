@@ -1,0 +1,15 @@
+#xde {
+    position: fixed
+    src="https://media.giphy.com/media/MtQxKzhytFsmQ/giphy.gif"
+    
+}
+
+body { height: 100vh; }
+
+p {
+    color: black;
+}
+p:hover{
+    background:black;
+    color:white;
+  }
